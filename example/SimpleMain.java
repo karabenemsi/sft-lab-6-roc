@@ -7,20 +7,12 @@ import tud.se.httpd.HttpException;
 import tud.se.httpd.HttpServer;
 import tud.se.httpd.HttpWorker;
 
-/*
- * File: SimpleMain.java
- * Created on 01.12.2004 by: suesskraut
- *
- *
- */
-
 /**
  * <p>Simple demonstration of how to compose the HttpServer and the HttpWorker
  * to a simple webserver.</p>
- * @author suesskraut
- * <pre>part of: tiny-http package: 
- * File: SimpleMain.java
- * created: 01.12.2004</pre>
+ *
+ * @author <pre>part of: tiny-http package:
+ * File: SimpleMain.java</pre>
  */
 public class SimpleMain
 {
